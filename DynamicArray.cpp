@@ -1,7 +1,7 @@
 #include <iostream>
 
 class DynamicArray {
-private:
+protected:
     int * dynArr;
     size_t sizeArr;
 
